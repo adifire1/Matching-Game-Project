@@ -1,6 +1,6 @@
-# CSCI4448_Project - Aditya Kelshiker and Chandan Bukkapatnam 
+# CSCI4448_Project - Aditya Kelshiker
 Python Card Memorization Game
-In order to run the game, please run the following commands on your windows machine (the game is glitchy on macOS)
+In order to run the game, please run the following commands on your windows machine.
 
 pip install cocos2d
 
